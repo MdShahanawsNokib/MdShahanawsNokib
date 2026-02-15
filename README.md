@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md Shahanaws Nokib</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshahanawsnokib" alt="mdshahanawsnokib" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Pyhton**
 
 - 💬 Ask me about **JavaScript,NodeJs,Mongodb,Html,Css**
 
